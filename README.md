@@ -1,4 +1,4 @@
-# Olá, sou Érika Almeida! 👋
+# Olá, sou Érica Almeida! 👋
 
 > Backend Developer com paixão por código limpo e soluções eficientes.
 
